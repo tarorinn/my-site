@@ -54,7 +54,7 @@ img {
     background-repeat: no-repeat;
 }
 #home { 
-    background-image: url(../mysite/images/menu3.jpg);
+    background-image: url(../menu3.jpg);
     min-height: 100vh;
 }
 
