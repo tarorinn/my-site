@@ -68,6 +68,14 @@ img {
     text-align: center;
     /*margin-left: 65px;*/   
 }
+.profile-sns {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    max-width: 500px;
+    margin-top: 20px;
+    margin-left: 590px;
+}
 .profile-insta {
     font-size: 21px;
 }
@@ -77,16 +85,11 @@ img {
 }
 .profile-twitter {
     font-size: 21px;
-    margin-left: 55px;
+    margin-left: 50px;
 }
 .profile-twitter a {
     color: #432;
     text-decoration: underline;
-}
-.profile-sns {
-    display: flex;
-    margin-top: 20px;
-    margin-left: 590px;
 }
 #profile .profile-title {
     font-size: 70px;   
